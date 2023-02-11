@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/design3Dsign/static/css/main.049ea5c0.css",
-    "main.js": "/design3Dsign/static/js/main.05ecabf3.js",
+    "main.js": "/design3Dsign/static/js/main.a1d138a0.js",
     "index.html": "/design3Dsign/index.html",
     "main.049ea5c0.css.map": "/design3Dsign/static/css/main.049ea5c0.css.map",
-    "main.05ecabf3.js.map": "/design3Dsign/static/js/main.05ecabf3.js.map"
+    "main.a1d138a0.js.map": "/design3Dsign/static/js/main.a1d138a0.js.map"
   },
   "entrypoints": [
     "static/css/main.049ea5c0.css",
-    "static/js/main.05ecabf3.js"
+    "static/js/main.a1d138a0.js"
   ]
 }
