@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wujunbao1963/design3Dsign/static/css/main.049ea5c0.css",
-    "main.js": "/wujunbao1963/design3Dsign/static/js/main.82f8cd55.js",
+    "main.js": "/wujunbao1963/design3Dsign/static/js/main.59c6ed04.js",
     "index.html": "/wujunbao1963/design3Dsign/index.html",
     "main.049ea5c0.css.map": "/wujunbao1963/design3Dsign/static/css/main.049ea5c0.css.map",
-    "main.82f8cd55.js.map": "/wujunbao1963/design3Dsign/static/js/main.82f8cd55.js.map"
+    "main.59c6ed04.js.map": "/wujunbao1963/design3Dsign/static/js/main.59c6ed04.js.map"
   },
   "entrypoints": [
     "static/css/main.049ea5c0.css",
-    "static/js/main.82f8cd55.js"
+    "static/js/main.59c6ed04.js"
   ]
 }
